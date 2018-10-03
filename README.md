@@ -1,5 +1,30 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
 ## The list of submitted project ideas and Github accounts of Codex members
+* [Swagat Parija](https://github.com/swagat5147)
+
+> An portal to compare current price of items in cart across various platforms such as flipkart,amazon,etc and provide best deals available.
+
+* [Shikha Kumari](https://github.com/shikhanimmi)
+
+> To add audio option in Whatsapp,Facebook story.
+
+* [Subham Sinha](https://github.com/sinhasubham)
+
+> An app that predicts a customer/employee is about to leave or stay with that company .
+
+* [Nehal Kumar Singh](https://github.com/geekyNehal)
+
+> An app that will show who have unfollowed us on instagram and will give an option to directly unfollow them without going to instagram account. 
+
+* [Dibya Ranjan Jena](https://github.com/dibyasonu)
+
+> A command line tool that streams audio from youtube. It should have a command line interface as well as functionality like Cmus(a command line music player in Linux) and it should be cross platform.
+
+* [Jashaswee Jena](https://github.com/jashasweejena)
+
+> 1. An app that uses Github's API to pull your number of contributions from Github and merge show them in the status bar of your phone. Also a detailed summary of contributions could be made available on clicking the notification.
+> 2. Some platform to add ideas related to Mathematics or Physics and track contributions, accept pull requests and view commit history, just like Github. Have a feature for licensing too.
+> 3. Create a script which would scrape sites like developer.android.com and add the latest versions of the libraries in your android project.
 
 * [Subhrajit Prusty](https://github.com/subhrajitprusty)
 
@@ -17,7 +42,8 @@
 
 * [A Rupesh](https://github.com/rupesh1310)
 
-> Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.
+> 1. Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.
+> 2. A URL shortener which help us to shorten the url just like tiny.cc and bit.do
 
 * [Aniket Prasad](https://github.com/aniketdgp)
 
